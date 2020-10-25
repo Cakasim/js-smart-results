@@ -1,6 +1,8 @@
 Smart Results for JS
 ====================
 
+[![Build Status](https://travis-ci.org/Cakasim/js-smart-results.svg?branch=develop)](https://travis-ci.org/Cakasim/js-smart-results)
+[![Coverage Status](https://coveralls.io/repos/github/Cakasim/js-smart-results/badge.svg?branch=develop)](https://coveralls.io/github/Cakasim/js-smart-results?branch=develop)
 [![LICENSE](https://img.shields.io/github/license/Cakasim/js-smart-results.svg)](LICENSE)
 
 Introduction
