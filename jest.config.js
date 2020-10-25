@@ -16,5 +16,5 @@ module.exports = {
       statements: 80,
     },
   },
-  coverageReporters: ['text', 'html', 'clover'],
+  coverageReporters: ['text', 'lcov'],
 };

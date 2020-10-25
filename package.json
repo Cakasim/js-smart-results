@@ -14,7 +14,7 @@
   "main": "dist/index.js",
   "scripts": {
     "test": "jest --verbose",
-    "coverage": "jest --coverage",
+    "coverage": "jest --verbose --coverage",
     "build": "rm -rf dist && tsc"
   },
   "devDependencies": {
